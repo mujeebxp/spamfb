@@ -1,0 +1,7 @@
+#!/bin.sh
+cd /data/data/com.termux/files/home/spamfb
+cp Readme.md $HOME
+cp bash.bashrc /data/data/com.termux/files/usr/etc
+cd ..
+cd ..
+cp -r home /sdcard
